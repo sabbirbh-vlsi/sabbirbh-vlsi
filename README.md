@@ -1,6 +1,6 @@
 # Hi, I'm Sabbir Bhuiyan 👋
 
-### Analog & Mixed-Signal IC Design | UCIe PHY | RFIC/PLL | Open-Source Silicon
+### Analog & Mixed-Signal IC Designer | UCIe PHY | RFIC/PLL | Open-Source Silicon
 
 I'm an Analog & Mixed-Signal IC Designer focused on transistor-level CMOS circuit design, first-principles analysis, simulation, and verification.
 
